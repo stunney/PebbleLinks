@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "stephen.tunney@gmail.com",
+    "longName": "PebbleLinks",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "PebbleLinks",
+    "uuid": "14673598-e236-461c-9de9-2f845aab33e2",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
